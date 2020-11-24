@@ -50,7 +50,7 @@ namespace lab7_2
             }
         }
     }
-    class mainlaba8
+    class mainlaba7
     {
         public static void Main()
         {
